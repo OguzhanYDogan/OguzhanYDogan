@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Oguzhan and I'm a Ful-Stack Developer, from Turkey</h3>
+<h3 align="left">My name is Oguzhan and I'm a Full-Stack Developer, from Turkey</h3>
 
 ###
 
