@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React and mainly working on C#.</p>
+<p align="left">📚 I'm currently working on ASP.Net MVC projects.</p>
 
 ###
 
