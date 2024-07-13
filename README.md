@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working on ASP.Net MVC projects.</p>
+<p align="left"> With a passion for technology and a love for software development, I continuously improve my skills. Working on projects with C#, .NET, and other modern technologies, I stay updated on the latest software trends.</p>
 
 ###
 
